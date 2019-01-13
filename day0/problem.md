@@ -5,5 +5,4 @@
 https://www.hackerrank.com/challenges/js10-hello-world/problem
 
 ### Data Types:
-
-
+https://www.hackerrank.com/challenges/js10-data-types/problem
