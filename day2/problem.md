@@ -1,4 +1,4 @@
-# 10 Days of JavaScript Day 3 (HackerRank)
+# 10 Days of JavaScript Day 2 (HackerRank)
 
 ## problem 1: Conditional Statements: If-Else
 https://www.hackerrank.com/challenges/js10-if-else/problem

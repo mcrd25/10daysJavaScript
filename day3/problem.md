@@ -1,4 +1,4 @@
-# 10 Days of JavaScript Day 4 (HackerRank)
+# 10 Days of JavaScript Day 3 (HackerRank)
 
 ## problem 1: Arrays
 https://www.hackerrank.com/challenges/js10-arrays/problem
